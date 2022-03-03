@@ -1,0 +1,46 @@
+body {
+  /* background-image: url("../public/ABZwRu.jpg"); */
+  background-color: white;
+}
+.form {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 80px;
+}
+.button {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.inputs {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.input {
+  font-size: larger;
+  width: 24rem;
+  height: 3rem;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  /* margin: 18px; */
+  color: grey;
+}
+.inputer {
+  font-size: larger;
+  width: 20rem;
+  height: 2rem;
+}
+.img {
+  width: 100px;
+  height: 100px;
+}
+.privacy {
+  margin: 322px;
+  text-decoration: line;
+}
+.t {
+  margin-left: 292px;
+}
